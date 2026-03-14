@@ -1,0 +1,10 @@
+waste_type,domestic_tpd,commercial_industrial_tpd,total_msw_tpd
+Glass,126,85,211
+Metals,118,130,248
+Paper,1273,970,2244
+Plastics,1311,1058,2369
+Putrescibles,2424,1071,3495
+Textiles,250,138,388
+Wood,31,176,207
+Household hazardous waste,79,53,132
+Others,1185,651,1836

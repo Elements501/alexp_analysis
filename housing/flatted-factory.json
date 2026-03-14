@@ -1,0 +1,415 @@
+[ {
+  "Estate Name" : {
+    "en" : "Hoi Tai Factory Estate",
+    "zh-Hans" : "开泰工厂大厦",
+    "zh-Hant" : "開泰工廠大廈"
+  },
+  "District Name" : {
+    "en" : "Tuen Mun",
+    "zh-Hans" : "屯门",
+    "zh-Hant" : "屯門"
+  },
+  "Region Name" : {
+    "en" : "New Territories",
+    "zh-Hans" : "新界",
+    "zh-Hant" : "新界"
+  },
+  "Estate Map Latitude" : 22.39954,
+  "Estate Map Longitude" : 113.96867,
+  "Type of Estate" : {
+    "en" : "Factory",
+    "zh-Hans" : "工厂大厦",
+    "zh-Hant" : "工廠大廈"
+  },
+  "Year of Intake" : {
+    "en" : "1982",
+    "zh-Hans" : "1982",
+    "zh-Hant" : "1982"
+  },
+  "No. of Blocks" : {
+    "en" : "1",
+    "zh-Hans" : "1",
+    "zh-Hant" : "1"
+  },
+  "Name of Blocks" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "No. of Units" : {
+    "en" : "1756",
+    "zh-Hans" : "1756",
+    "zh-Hant" : "1756"
+  },
+  "Storey" : {
+    "en" : "26",
+    "zh-Hans" : "26",
+    "zh-Hant" : "26"
+  },
+  "Factory Estate Office" : {
+    "en" : "Hoi Tai Factory Estate Office <br>G/F, Kin Fat Street,<br>Tuen Mun,<br>N.T.<br>Tel: 2465 9504<br>Fax: 2464 7529<br>",
+    "zh-Hans" : "开泰工厂大厦办事处\n新界屯门建发街开泰工厂大厦地下\n电话: 2465 9504\n传真: 2464 7529",
+    "zh-Hant" : "開泰工廠大廈辦事處\n新界屯門建發街開泰工廠大廈地下\n電話: 2465 9504\n傳真: 2464 7529\n"
+  },
+  "Property Management" : {
+    "en" : "Creative Property Services Consultants Limited<br>G/F, Hoi Tai Factory Estate, Kin Fat Street,<br>Tuen Mun, N.T.<br>Tel: 2465 9504<br>Fax: 2464 7529<br>",
+    "zh-Hans" : "创毅物业服务顾问有限公司\n新界屯门建发街开泰工厂大厦地下\n电话: 2465 9504\n传真: 2464 7529",
+    "zh-Hant" : "創毅物業服務顧問有限公司\n新界屯門建發街開泰工廠大廈地下\n電話: 2465 9504\n傳真: 2464 7529\n"
+  },
+  "Carpark Management" : {
+    "en" : "Creative Property Services Consultants Limited<br>G/F, Hoi Tai Factory Estate, Kin Fat Street,<br>Tuen Mun, N.T.<br>Tel: 2465 9504<br>Fax: 2464 7529<br>",
+    "zh-Hans" : "创毅物业服务顾问有限公司\n新界屯门建发街开泰工厂大厦地下\n电话: 2465 9504\n传真: 2464 7529",
+    "zh-Hant" : "創毅物業服務顧問有限公司\n新界屯門建發街開泰工廠大廈地下\n電話: 2465 9504\n傳真: 2464 7529"
+  },
+  "Flatted Factories Website" : null,
+  "Further Information" : {
+    "en" : "<a href=\"/en/common/pdf/global-elements/estate-locator/HoiTaiFactoryEstate-barrier-free-en.pdf\" target=\"_blank\">Barrier-Free Access (BFA) Facilities</a>",
+    "zh-Hans" : "<a href=\"/sc/common/pdf/global-elements/estate-locator/HoiTaiFactoryEstate-barrier-free-sc.pdf\"target=\"_blank\">无障碍设施</a>",
+    "zh-Hant" : "<a href=\"/tc/common/pdf/global-elements/estate-locator/HoiTaiFactoryEstate-barrier-free-tc.pdf\"target=\"_blank\">無障礙設施</a>"
+  }
+}, {
+  "Estate Name" : {
+    "en" : "Chun Shing Factory Estate",
+    "zh-Hans" : "晋升工厂大厦",
+    "zh-Hant" : "晉昇工廠大廈"
+  },
+  "District Name" : {
+    "en" : "Kwai Tsing",
+    "zh-Hans" : "葵青",
+    "zh-Hant" : "葵青"
+  },
+  "Region Name" : {
+    "en" : "New Territories",
+    "zh-Hans" : "新界",
+    "zh-Hant" : "新界"
+  },
+  "Estate Map Latitude" : 22.36116,
+  "Estate Map Longitude" : 114.11969,
+  "Type of Estate" : {
+    "en" : "Factory",
+    "zh-Hans" : "工厂大厦",
+    "zh-Hant" : "工廠大廈"
+  },
+  "Year of Intake" : {
+    "en" : "1982",
+    "zh-Hans" : "1982",
+    "zh-Hant" : "1982"
+  },
+  "No. of Blocks" : {
+    "en" : "1",
+    "zh-Hans" : "1",
+    "zh-Hant" : "1"
+  },
+  "Name of Blocks" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "No. of Units" : {
+    "en" : "1646",
+    "zh-Hans" : "1646",
+    "zh-Hant" : "1646"
+  },
+  "Storey" : {
+    "en" : "26",
+    "zh-Hans" : "26",
+    "zh-Hant" : "26"
+  },
+  "Factory Estate Office" : {
+    "en" : "Chun Shing Factory Estate Office <br>G/F, Chun Shing Factory Estate, 85-89 Kwai Fuk Road,<br>Kwai Chung,<br>N.T.<br>Tel:2407 5324<br>Fax:2406 0351<br>",
+    "zh-Hans" : "晋升工厂大厦办事处\n新界葵涌葵福道85-89号晋升工厂大厦地下\n电话:2407 5324\n传真:2406 0351",
+    "zh-Hant" : "晉昇工廠大廈辦事處\n新界葵涌葵福道85-89號晉昇工廠大廈地下\n電話:2407 5324\n傳真:2406 0351\n"
+  },
+  "Property Management" : {
+    "en" : "Creative Property Services Consultants Limited <br>G/F, Chun Shing Factory Estate, 85-89 Kwai Fuk Road,<br>Kwai Chung,<br>N.T.<br>Tel: 2407 5324<br>Fax: 2406 0351<br>",
+    "zh-Hans" : "创毅物业服务顾问有限公司\n新界葵涌葵福道85-89号晋升工厂大厦地下\n电话: 2407 5324\n传真: 2406 0351",
+    "zh-Hant" : "創毅物業服務顧問有限公司\n新界葵涌葵福道85-89號晉昇工廠大廈地下\n電話: 2407 5324\n傳真: 2406 0351\n"
+  },
+  "Carpark Management" : {
+    "en" : "Creative Property Services Consultants Limited <br>G/F, Chun Shing Factory Estate, 85-89 Kwai Fuk Road,<br>Kwai Chung,<br>N.T.<br>Tel: 2407 5324<br>Fax: 2406 0351",
+    "zh-Hans" : "创毅物业服务顾问有限公司 \n新界葵涌葵福道85-89号晋升工厂大厦地下\n电话: 2407 5324\n传真: 2406 0351",
+    "zh-Hant" : "創毅物業服務顧問有限公司 \n新界葵涌葵福道85-89號晉昇工廠大廈地下\n電話: 2407 5324\n傳真: 2406 0351"
+  },
+  "Flatted Factories Website" : null,
+  "Further Information" : {
+    "en" : "<a href=\"/en/common/pdf/global-elements/estate-locator/ChunShingFactoryEstate-barrier-free-en.pdf\" target=\"_blank\">Barrier-Free Access (BFA) Facilities</a>",
+    "zh-Hans" : "<a href=\"/sc/common/pdf/global-elements/estate-locator/ChunShingFactoryEstate-barrier-free-sc.pdf\"target=\"_blank\">无障碍设施</a>",
+    "zh-Hant" : "<a href=\"/tc/common/pdf/global-elements/estate-locator/ChunShingFactoryEstate-barrier-free-tc.pdf\"target=\"_blank\">無障礙設施</a>"
+  }
+}, {
+  "Estate Name" : {
+    "en" : "Kwai On Factory Estate (Under Redevelopment)",
+    "zh-Hans" : "葵安工厂大厦((已纳入重建计划)",
+    "zh-Hant" : "葵安工廠大廈 (已納入重建計劃)"
+  },
+  "District Name" : {
+    "en" : "Kwai Tsing",
+    "zh-Hans" : "葵青",
+    "zh-Hant" : "葵青"
+  },
+  "Region Name" : {
+    "en" : "New Territories",
+    "zh-Hans" : "新界",
+    "zh-Hant" : "新界"
+  },
+  "Estate Map Latitude" : 22.36049,
+  "Estate Map Longitude" : 114.13297,
+  "Type of Estate" : {
+    "en" : "Factory",
+    "zh-Hans" : "工厂大厦",
+    "zh-Hant" : "工廠大廈"
+  },
+  "Year of Intake" : {
+    "en" : "1979",
+    "zh-Hans" : "1979",
+    "zh-Hant" : "1979"
+  },
+  "No. of Blocks" : {
+    "en" : "1",
+    "zh-Hans" : "1",
+    "zh-Hant" : "1"
+  },
+  "Name of Blocks" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "No. of Units" : {
+    "en" : "766",
+    "zh-Hans" : "766",
+    "zh-Hant" : "766"
+  },
+  "Storey" : {
+    "en" : "15",
+    "zh-Hans" : "15",
+    "zh-Hant" : "15"
+  },
+  "Factory Estate Office" : {
+    "en" : "Hoi Tai Factory Estate Office<br>G/F, Kin Fat Street,Tuen Mun,N.T.<br><br>Tel: 2465 9504<br>Fax: 2464 7529",
+    "zh-Hans" : "开泰工厂大厦办事处\n新界屯门建发街\n开泰工厂大厦地下\n\n电话: 2465 9504\n传真: 2464 7529",
+    "zh-Hant" : "開泰工廠大廈辦事處\n新界屯門建發街\n開泰工廠大廈地下\n\n電話: 2465 9504\n傳真: 2464 7529"
+  },
+  "Property Management" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "Carpark Management" : {
+    "en" : "<br>",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "Flatted Factories Website" : null,
+  "Further Information" : {
+    "en" : "<a href=\"/en/common/pdf/global-elements/estate-locator/KwaiOnFactoryEstate-barrier-free-en.pdf\" target=\"_blank\">Barrier-Free Access (BFA) Facilities</a>",
+    "zh-Hans" : "<a href=\"/sc/common/pdf/global-elements/estate-locator/KwaiOnFactoryEstate-barrier-free-sc.pdf\"target=\"_blank\">无障碍设施</a>",
+    "zh-Hant" : "<a href=\"/tc/common/pdf/global-elements/estate-locator/KwaiOnFactoryEstate-barrier-free-tc.pdf\"target=\"_blank\">無障礙設施</a>"
+  }
+}, {
+  "Estate Name" : {
+    "en" : "Sui Fai Factory Estate (Under Redevelopment)",
+    "zh-Hans" : "穗辉工厂大厦(已纳入重建计划)",
+    "zh-Hant" : "穗輝工廠大廈(已納入重建計劃)"
+  },
+  "District Name" : {
+    "en" : "Sha Tin",
+    "zh-Hans" : "沙田",
+    "zh-Hant" : "沙田"
+  },
+  "Region Name" : {
+    "en" : "New Territories",
+    "zh-Hans" : "新界",
+    "zh-Hant" : "新界"
+  },
+  "Estate Map Latitude" : 22.39614,
+  "Estate Map Longitude" : 114.19383,
+  "Type of Estate" : {
+    "en" : "Factory",
+    "zh-Hans" : "工厂大厦",
+    "zh-Hant" : "工廠大廈"
+  },
+  "Year of Intake" : {
+    "en" : "1982",
+    "zh-Hans" : "1982",
+    "zh-Hant" : "1982"
+  },
+  "No. of Blocks" : {
+    "en" : "1",
+    "zh-Hans" : "1",
+    "zh-Hant" : "1"
+  },
+  "Name of Blocks" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "No. of Units" : {
+    "en" : "1596",
+    "zh-Hans" : "1596",
+    "zh-Hant" : "1596"
+  },
+  "Storey" : {
+    "en" : "24",
+    "zh-Hans" : "24",
+    "zh-Hant" : "24"
+  },
+  "Factory Estate Office" : {
+    "en" : "Hoi Tai Factory Estate Office<br>G/F, Kin Fat Street,Tuen Mun,N.T.<br><br>Tel: 2465 9504<br>Fax: 2464 7529",
+    "zh-Hans" : "开泰工厂大厦办事处\n新界屯门建发街\n开泰工厂大厦地下\n\n电话: 2465 9504\n传真: 2464 7529\n",
+    "zh-Hant" : "開泰工廠大廈辦事處\n新界屯門建發街\n開泰工廠大廈地下\n\n電話: 2465 9504\n傳真: 2464 7529"
+  },
+  "Property Management" : {
+    "en" : "<br>",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "Carpark Management" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : "\n"
+  },
+  "Flatted Factories Website" : null,
+  "Further Information" : {
+    "en" : "<a href=\"/en/common/pdf/global-elements/estate-locator/SuiFaiFactoryEstate-barrier-free-en.pdf\" target=\"_blank\">Barrier-Free Access (BFA) Facilities</a>",
+    "zh-Hans" : "<a href=\"/sc/common/pdf/global-elements/estate-locator/SuiFaiFactoryEstate-barrier-free-sc.pdf\"target=\"_blank\">无障碍设施</a>",
+    "zh-Hant" : "<a href=\"/tc/common/pdf/global-elements/estate-locator/SuiFaiFactoryEstate-barrier-free-tc.pdf\"target=\"_blank\">無障礙設施</a>"
+  }
+}, {
+  "Estate Name" : {
+    "en" : "Wang Cheong Factory Estate (Under Redevelopment)",
+    "zh-Hans" : "宏昌工厂大厦(已纳入重建计划)",
+    "zh-Hant" : "宏昌工廠大廈(已納入重建計劃)"
+  },
+  "District Name" : {
+    "en" : "Sham Shui Po",
+    "zh-Hans" : "深水埗",
+    "zh-Hant" : "深水埗"
+  },
+  "Region Name" : {
+    "en" : "Kowloon",
+    "zh-Hans" : "九龙",
+    "zh-Hant" : "九龍"
+  },
+  "Estate Map Latitude" : 22.33377,
+  "Estate Map Longitude" : 114.15224,
+  "Type of Estate" : {
+    "en" : "Factory",
+    "zh-Hans" : "工厂大厦",
+    "zh-Hant" : "工廠大廈"
+  },
+  "Year of Intake" : {
+    "en" : "1984",
+    "zh-Hans" : "1984",
+    "zh-Hant" : "1984"
+  },
+  "No. of Blocks" : {
+    "en" : "1",
+    "zh-Hans" : "1",
+    "zh-Hant" : "1"
+  },
+  "Name of Blocks" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "No. of Units" : {
+    "en" : "1020",
+    "zh-Hans" : "1020",
+    "zh-Hant" : "1020"
+  },
+  "Storey" : {
+    "en" : "11",
+    "zh-Hans" : "11",
+    "zh-Hant" : "11"
+  },
+  "Factory Estate Office" : {
+    "en" : "Housing Department Kowloon East (6) <br>District Tenancy Management Office<br>3/F, Podium Level, Ning Wah House, <br>Lok Wah (North) Estate, Ngau Tau Kok, Kowloon <br><br>Tel：3499 1194<br>Fax：3499 1153 ",
+    "zh-Hans" : "房屋署东九龙(六)区\n租约事务管理处\n九龙牛头角乐华(北)邨\n宁华楼3楼平台\n\n电话：3499 1194\n传真：3499 1153",
+    "zh-Hant" : "房屋署東九龍(六)區\n租約事務管理處\n九龍牛頭角樂華(北)邨\n寧華樓3樓平台\n\n電話：3499 1194\n傳真：3499 1153 \n"
+  },
+  "Property Management" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : "\n"
+  },
+  "Carpark Management" : {
+    "en" : "<br>",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "Flatted Factories Website" : null,
+  "Further Information" : {
+    "en" : "<a href=\"/en/common/pdf/global-elements/estate-locator/WangCheongFactory-barrier-free-en.pdf\" target=\"_blank\">Barrier-Free Access (BFA) Facilities</a>",
+    "zh-Hans" : "<a href=\"/sc/common/pdf/global-elements/estate-locator/WangCheongFactory-barrier-free-sc.pdf\" target=\"_blank\">无障碍设施</a>",
+    "zh-Hant" : "<a href=\"/tc/common/pdf/global-elements/estate-locator/WangCheongFactory-barrier-free-tc.pdf\" target=\"_blank\">無障礙設施</a>"
+  }
+}, {
+  "Estate Name" : {
+    "en" : "Yip On Factory Estate (Under Redevelopment)",
+    "zh-Hans" : "业安工厂大厦(已纳入重建计划)",
+    "zh-Hant" : "業安工廠大廈(已納入重建計劃)"
+  },
+  "District Name" : {
+    "en" : "Kwun Tong",
+    "zh-Hans" : "观塘",
+    "zh-Hant" : "觀塘"
+  },
+  "Region Name" : {
+    "en" : "Kowloon",
+    "zh-Hans" : "九龙",
+    "zh-Hant" : "九龍"
+  },
+  "Estate Map Latitude" : 22.32017,
+  "Estate Map Longitude" : 114.21143,
+  "Type of Estate" : {
+    "en" : "Factory",
+    "zh-Hans" : "工厂大厦",
+    "zh-Hant" : "工廠大廈"
+  },
+  "Year of Intake" : {
+    "en" : "1980",
+    "zh-Hans" : "1980",
+    "zh-Hant" : "1980"
+  },
+  "No. of Blocks" : {
+    "en" : "2",
+    "zh-Hans" : "2",
+    "zh-Hant" : "2"
+  },
+  "Name of Blocks" : {
+    "en" : "Block 1, Block 2",
+    "zh-Hans" : "第一座，第二座",
+    "zh-Hant" : "第一座，第二座"
+  },
+  "No. of Units" : {
+    "en" : "1440",
+    "zh-Hans" : "1440",
+    "zh-Hant" : "1440"
+  },
+  "Storey" : {
+    "en" : "10",
+    "zh-Hans" : "10",
+    "zh-Hant" : "10"
+  },
+  "Factory Estate Office" : {
+    "en" : "Housing Department Kowloon East (6) <br>District Tenancy Management Office<br>3/F, Podium Level, Ning Wah House, <br>Lok Wah (North) Estate, Ngau Tau Kok, Kowloon <br><br>Tel：3499 1194<br>Fax：3499 1153 ",
+    "zh-Hans" : "房屋署东九龙(六)区\n租约事务管理处\n九龙牛头角乐华(北)邨\n宁华楼3楼平台\n\n电话：3499 1194\n传真：3499 1153\n",
+    "zh-Hant" : "房屋署東九龍(六)區\n租約事務管理處\n九龍牛頭角樂華(北)邨\n寧華樓3樓平台\n\n電話：3499 1194\n傳真：3499 1153 "
+  },
+  "Property Management" : {
+    "en" : "<br>",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "Carpark Management" : {
+    "en" : "",
+    "zh-Hans" : "",
+    "zh-Hant" : ""
+  },
+  "Flatted Factories Website" : null,
+  "Further Information" : {
+    "en" : "<a href=\"/en/common/pdf/global-elements/estate-locator/YipOnFactory-barrier-free-en.pdf\" target=\"_blank\">Barrier-Free Access (BFA) Facilities</a>",
+    "zh-Hans" : "<a href=\"/sc/common/pdf/global-elements/estate-locator/YipOnFactory-barrier-free-sc.pdf\" target=\"_blank\">无障碍设施</a>",
+    "zh-Hant" : "<a href=\"/tc/common/pdf/global-elements/estate-locator/YipOnFactory-barrier-free-tc.pdf\" target=\"_blank\">無障礙設施</a>"
+  }
+} ]
