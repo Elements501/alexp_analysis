@@ -711,7 +711,19 @@ def main() -> None:
     with o3:
         removal_threshold = st.slider("Utilization rate threshold for bin removal", min_value=0.05, max_value=0.95, value=0.35, step=0.05)
 
-    if "optimizer_result" not in st.session_state:
+    optimizer_params = (
+        float(density_threshold),
+        float(min_distance_m),
+        float(removal_threshold),
+        int(n_estimators),
+        int(max_depth),
+        float(target_pressure),
+    )
+
+    if (
+        "optimizer_result" not in st.session_state
+        or st.session_state.get("optimizer_params") != optimizer_params
+    ):
         st.session_state["optimizer_result"] = run_optimizer(
             district_df,
             points_df,
@@ -720,6 +732,7 @@ def main() -> None:
             float(min_distance_m),
             removal_threshold,
         )
+        st.session_state["optimizer_params"] = optimizer_params
 
     if st.button("Predict Optimal Locations", use_container_width=True):
         st.session_state["optimizer_result"] = run_optimizer(
@@ -730,6 +743,7 @@ def main() -> None:
             float(min_distance_m),
             removal_threshold,
         )
+        st.session_state["optimizer_params"] = optimizer_params
 
     optimizer_result = st.session_state["optimizer_result"]
     lacking_df = optimizer_result["lacking"]
